@@ -1,0 +1,20 @@
+{
+  "name": "express-promise-router-bugcase",
+  "version": "1.0.0",
+  "description": "Testcase for demonstrating a bug in express-promise-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.cryto.net:projects/joepie91/express-promise-router-bugcase"
+  },
+  "author": "Sven Slootweg",
+  "license": "WTFPL",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "express": "^4.13.4",
+    "express-promise-router": "^1.0.0"
+  }
+}
